@@ -21,4 +21,4 @@ This project uses the **PokeAPI** and **Axios** to fetch random Pokémon data an
    - The Pokémon's name is formatted and displayed in the title using the ID `#title`.
 
 ## Future Improvements
-- **Add more detailed Pokémon information like type, abilities, and a short description to create a full Pokédex-style interface.
+- Add more detailed Pokémon information like type, abilities, and a short description to create a full Pokédex-style interface.
